@@ -63,16 +63,16 @@ nav a:hover {
 }
 
 /*---------------------------------------*/
-/* .pagina {
+.pagina {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
-} */
+}
 
 
-.ProductosDestacados{
+.Destacados{
     display: flex;
     min-height: 70px;
     align-items: center;
